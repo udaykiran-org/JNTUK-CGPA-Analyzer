@@ -1,0 +1,55 @@
+{
+    "student": {
+        "name": "vemula uday kiran",
+        "roll": "24475A0424",
+        "branch": "ECE",
+        "college": "NEC"
+    },
+    "semesters": [
+        {
+            "semester": 6,
+            "subjects": [
+                {
+                    "name": "VLSID",
+                    "credits": 3,
+                    "grade": "A"
+                },
+                {
+                    "name": "MPMC",
+                    "credits": 3,
+                    "grade": "B"
+                },
+                {
+                    "name": "DSP",
+                    "credits": 3,
+                    "grade": "C"
+                },
+                {
+                    "name": "ML",
+                    "credits": 3,
+                    "grade": "B"
+                },
+                {
+                    "name": "ME",
+                    "credits": 3,
+                    "grade": "B"
+                },
+                {
+                    "name": "VLSI LAB",
+                    "credits": 2,
+                    "grade": "A"
+                },
+                {
+                    "name": "ML LAB",
+                    "credits": 2,
+                    "grade": "S"
+                },
+                {
+                    "name": "MPMC LAB",
+                    "credits": 2,
+                    "grade": "S"
+                }
+            ]
+        }
+    ]
+}
